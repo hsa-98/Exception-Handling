@@ -24,7 +24,7 @@ public class MoodAnalyserTest {
     void givenNull_ToMoodAnalyser_ReturnsException(){
         MoodAnalyser moodAnalyser = new MoodAnalyser();
         String mood = moodAnalyser.analyseMood();
-        Assertions.assertTrue(mood.equals( "Please Enter Input"));
+        Assertions.assertTrue(mood.equals( "Happy"));
 
     }
 }

@@ -20,7 +20,7 @@ public class MoodAnalyser {
             }
         }
         catch (Exception e){
-            return "Please Enter Input";
+            return "Happy";
         }
     }
 }
