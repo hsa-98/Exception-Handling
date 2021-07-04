@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.controller.MoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-04T20:29:59" hostname="DESKTOP-8P64EGP" time="0.029">
+<testsuite name="com.controller.MoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-04T20:41:05" hostname="DESKTOP-8P64EGP" time="0.03">
   <properties/>
-  <testcase name="givenMessage_ToMoodAnalyser_ReturnsSad()" classname="com.controller.MoodAnalyserTest" time="0.029"/>
+  <testcase name="givenNull_ToMoodAnalyser_ReturnsException()" classname="com.controller.MoodAnalyserTest" time="0.03"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
