@@ -1,2 +1,5 @@
 com/controller/MoodAnalyser.java
  com.controller.MoodAnalyser
+com/controller/MoodAnalyserException.java
+ com.controller.MoodAnalyserException
+ com.controller.MoodAnalyserException$TypeOfException
